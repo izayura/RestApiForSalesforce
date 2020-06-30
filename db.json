@@ -1,0 +1,32 @@
+{
+  "posts":[
+    {
+      "id":1,
+      "student Name": "Gloria Ramirez",
+      "Subjects": "Java,Apex,Visualforce"
+    },
+    {
+      "id":2,
+      "student Name": "Valo Diaz",
+      "Subjects": "JavaScript, React"
+    },
+    {
+      "id":3,
+      "student Name": "Elsa Robles",
+      "Subjects": "JavaScript, OOP"
+    },
+    {
+      "id":4,
+      "student Name": "Rafael Lopez",
+      "Subjects": "Python, Java, OOP"
+    },
+    {
+      "id":5,
+      "student Name": "Karina Cabrera",
+      "Subjects": "Python,JavaScript,Java"
+    }
+  ],
+  "profile":{
+    "name":"typicode"
+  }
+}
