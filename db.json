@@ -2,28 +2,28 @@
   "posts":[
     {
       "id":1,
-      "student Name": "Gloria Ramirez",
-      "Subjects": "Java,Apex,Visualforce"
+      "studentName": "Gloria Ramirez",
+      "subjects": "Java,Apex,Visualforce"
     },
     {
       "id":2,
-      "student Name": "Valo Diaz",
-      "Subjects": "JavaScript, React"
+      "studentName": "Valo Diaz",
+      "subjects": "JavaScript, React"
     },
     {
       "id":3,
-      "student Name": "Elsa Robles",
-      "Subjects": "JavaScript, OOP"
+      "studentName": "Elsa Robles",
+      "subjects": "JavaScript, OOP"
     },
     {
       "id":4,
-      "student Name": "Rafael Lopez",
-      "Subjects": "Python, Java, OOP"
+      "studentName": "Rafael Lopez",
+      "subjects": "Python, Java, OOP"
     },
     {
       "id":5,
-      "student Name": "Karina Cabrera",
-      "Subjects": "Python,JavaScript,Java"
+      "studentName": "Karina Cabrera",
+      "subjects": "Python,JavaScript,Java"
     }
   ],
   "profile":{
